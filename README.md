@@ -7,4 +7,6 @@ In the words of James E. Fauts
 
 **_Aprendamos a Volar Juntos_** was a social responsibility project carried out bye [AIESEC IPN - Mexico City](https://www.facebook.com/AIESEC.IPN.FANPAGE) on 2011 to 2013. Inspired in a National Project of [AIESEC INDIA](www.aiesec.in) known as [Balakalakaar](https://www.facebook.com/BKKHYD) it aimed to made an impact  in children who live an unfavorable situation through ludic activities concerning music, arts and culture in a multicultural enviroment which was prepared by trainees who came to Mexico city and prepare any related workshops for this children on diverse orphanats and charity houses.
 
-This is the first version of the web page related to this project which was developed by [me](mailto:hi@jairaviles.mx). For more informartion of AIESEC or **_Aprendamos a Volar Juntos_** please contact [AIESEC IPN - Mexico City](https://www.facebook.com/AIESEC.IPN.FANPAGE).
+This is the first version of the web page related to this project which was developed by [me](mailto:hi@jairaviles.mx). It implements HTML5 for markup language, JavaScript and jQuery for the dynamic interaction with the UI and CSS3 for the style.
+
+For more informartion of AIESEC or **_Aprendamos a Volar Juntos_** please contact [AIESEC IPN - Mexico City](https://www.facebook.com/AIESEC.IPN.FANPAGE).
